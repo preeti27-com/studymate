@@ -1,0 +1,11 @@
+# Ignore Desktop GUI application and local test files on Vercel
+main.py
+gui.py
+test_chatbot.py
+chat_history.txt
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
