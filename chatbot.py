@@ -318,27 +318,27 @@ def safe_calculate(expression):
     """
     expr = expression.strip()
     
-    # Identify the operator
+    # Identify the operator (skip leading sign if present)
     operator = None
-    for op in ["+", "-", "*", "/"]:
-        if op in expr:
-            # Skip minus if it is a leading negative sign for first operand
-            if op == "-" and expr.startswith("-") and expr.count("-") == 1:
-                continue
-            operator = op
+    op_index = -1
+    start_index = 1 if (expr.startswith("-") or expr.startswith("+")) else 0
+
+    for i in range(start_index, len(expr)):
+        if expr[i] in ["+", "-", "*", "/"]:
+            operator = expr[i]
+            op_index = i
             break
             
-    if not operator:
+    if not operator or op_index == -1:
         return "Invalid expression for calculator. Please use format like 'calculate 25 + 30'.", False
 
     # Split operands around operator
-    parts = expr.split(operator, 1)
-    if len(parts) != 2:
-        return "Invalid expression for calculator. Please use format like 'calculate 25 + 30'.", False
+    part1 = expr[:op_index].strip()
+    part2 = expr[op_index + 1:].strip()
 
     try:
-        num1 = float(parts[0].strip())
-        num2 = float(parts[1].strip())
+        num1 = float(part1)
+        num2 = float(part2)
     except ValueError:
         return "Invalid expression for calculator. Please use format like 'calculate 25 + 30'.", False
 

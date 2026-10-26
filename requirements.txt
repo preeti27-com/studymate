@@ -1,0 +1,15 @@
+# StudyMate Chatbot - Dependencies
+# ==============================================================================
+# This project is built using Python's Standard Library exclusively.
+# No external third-party packages or pip installations are required.
+#
+# Standard modules utilized:
+# - tkinter (GUI framework - pre-bundled with standard Python installations)
+# - datetime (Live system date and time queries)
+# - random (Conversational response variety)
+# - sys (CLI argument parsing and system configurations)
+# - os (System utilities)
+# - unittest (Automated test suite)
+#
+# Minimum Recommended Python Version: Python 3.7+
+# ==============================================================================

@@ -1,6 +1,11 @@
 # StudyMate – Student Assistant Chatbot
 **CodeAlpha Internship Project**
 
+![Python](https://img.shields.io/badge/Python-3.7+-3776AB?logo=python&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Tests](https://img.shields.io/badge/Tests-25%20Passing-brightgreen)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-blue)
+
 StudyMate is a Python rule-based student assistant chatbot designed to help students learn foundational computer science concepts, perform safe basic arithmetic calculations, query current system date/time, and remember user names within a session.
 
 ---
@@ -46,6 +51,10 @@ StudyMate-Chatbot/
 ├── main.py            # Main application launcher (GUI by default, CLI optional)
 ├── gui.py             # Tkinter GUI implementation (StudyMateGUI)
 ├── chatbot.py         # Core rule-based chatbot engine & knowledge base
+├── test_chatbot.py    # Automated test suite (25 unit tests)
+├── requirements.txt   # Dependencies specification (Standard Library only)
+├── LICENSE            # MIT open-source license
+├── .gitignore         # Git ignore rules for Python bytecode and IDE files
 ├── chat_history.txt   # Local persistent conversation log file
 └── README.md          # Project documentation
 ```
@@ -55,7 +64,7 @@ StudyMate-Chatbot/
 ## Requirements & Installation
 
 - **Python Version**: Python 3.7 or higher
-- **Dependencies**: Uses Python built-in standard modules only (`tkinter`, `random`, `datetime`, `sys`, `os`). No external packages required!
+- **Dependencies**: Uses Python built-in standard modules only (`tkinter`, `random`, `datetime`, `sys`, `os`, `unittest`). No external packages required!
 
 ---
 
@@ -83,6 +92,13 @@ or
 python chatbot.py
 ```
 
+### 3. Run Automated Tests
+Run the complete unit test suite:
+
+```bash
+python -m unittest test_chatbot.py -v
+```
+
 ---
 
 ## Sample Questions & Commands
@@ -95,3 +111,4 @@ python chatbot.py
 - **Calculator**: *"calculate 25 + 30"*, *"20 - 8"*, *"6 * 7"*, *"20 / 4"*, *"10 / 0"*
 - **Name Memory**: *"My name is Preeti"*, *"What is my name?"*
 - **Help**: *"help"*
+
