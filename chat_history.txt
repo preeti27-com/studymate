@@ -1,0 +1,482 @@
+[10:36:18 PM]
+You: hello
+StudyMate: Hey! What would you like to learn today?
+
+[10:36:18 PM]
+You: hi
+StudyMate: Hey! What would you like to learn today?
+
+[10:36:18 PM]
+You: hey
+StudyMate: Hi! Nice to see you!
+
+[10:36:18 PM]
+You: good morning
+StudyMate: Good morning! Ready to tackle some questions today?
+
+[10:36:18 PM]
+You: good afternoon
+StudyMate: Good afternoon! Hope your learning session is going well!
+
+[10:36:18 PM]
+You: good evening
+StudyMate: Good evening! How can I assist your learning tonight?
+
+[10:36:18 PM]
+You: how are you
+StudyMate: I'm doing great, thank you! Ready to assist you with your learning.
+
+[10:36:18 PM]
+You: thank you
+StudyMate: Anytime! Feel free to ask more questions whenever you like.
+
+[10:36:18 PM]
+You: What is Python?
+StudyMate: Python is a high-level, interpreted programming language known for its easy-to-read syntax and versatility.
+
+[10:36:18 PM]
+You: Explain DBMS
+StudyMate: DBMS (Database Management System) is software used to store, manage, retrieve, and organize data efficiently.
+
+[10:36:18 PM]
+You: What is HTML?
+StudyMate: HTML (HyperText Markup Language) is the standard markup language used to structure web pages and their content.
+
+[10:36:18 PM]
+You: What is CSS?
+StudyMate: CSS (Cascading Style Sheets) is a language used to describe the visual presentation and layout of HTML documents.
+
+[10:36:18 PM]
+You: What is Git?
+StudyMate: Git is a distributed version control system that tracks changes in source code during software development.
+
+[10:36:18 PM]
+You: What is GitHub?
+StudyMate: GitHub is a cloud-based hosting platform that lets developers store, manage, track, and collaborate on Git repositories.
+
+[10:36:18 PM]
+You: What is my name?
+StudyMate: I don't know your name yet! You can tell me by typing 'My name is [Your Name]'.
+
+[10:36:18 PM]
+You: my name is Preeti
+StudyMate: Nice to meet you, Preeti!
+
+[10:36:18 PM]
+You: What is my name?
+StudyMate: Your name is Preeti!
+
+[10:36:18 PM]
+You: help
+StudyMate: Hello Preeti! I can help you with:
+
+1. Python
+2. DBMS
+3. HTML
+4. CSS
+5. Git and GitHub
+6. Programming basics
+7. Date and time
+8. Calculator
+9. General conversation
+
+Example questions:
+- What is Python?
+- What is DBMS?
+- What is GitHub?
+- What is the time?
+- What is today's date?
+- Calculate 25 + 30
+
+[10:36:18 PM]
+You: what is today's date
+StudyMate: Today's date is 7 October 2026.
+
+[10:36:18 PM]
+You: what is the time
+StudyMate: The current time is 10:36 PM.
+
+[10:36:18 PM]
+You: calculate 25 + 30
+StudyMate: The result is 55.
+
+[10:36:18 PM]
+You: calculate 20 - 8
+StudyMate: The result is 12.
+
+[10:36:18 PM]
+You: calculate 6 * 7
+StudyMate: The result is 42.
+
+[10:36:18 PM]
+You: calculate 20 / 4
+StudyMate: The result is 5.
+
+[10:36:18 PM]
+You: calculate 10 / 0
+StudyMate: Sorry, division by zero is not allowed.
+
+[10:36:18 PM]
+You: calculate invalid input
+StudyMate: Invalid expression for calculator. Please use format like 'calculate 25 + 30'.
+
+[10:36:18 PM]
+You: [empty]
+StudyMate: Please enter a message or question!
+
+[10:36:18 PM]
+You: what is quantum physics
+StudyMate: Sorry Preeti, I don't have an answer for that topic yet. You can ask me about Python, DBMS, HTML, CSS, Git, GitHub, programming basics, date, time, or calculator. Type 'help' to see sample questions!
+
+[10:36:18 PM]
+You: bye
+StudyMate: Goodbye Preeti! Good luck with your studies!
+
+[12:25:54 AM]
+You: hello
+StudyMate: Hello! How can I help you today?
+
+[12:25:54 AM]
+You: my name is Preeti
+StudyMate: Nice to meet you, Preeti!
+
+[12:25:54 AM]
+You: what is my name
+StudyMate: Your name is Preeti!
+
+[12:25:54 AM]
+You: what is python
+StudyMate: Python is a high-level, interpreted programming language known for its easy-to-read syntax and versatility.
+
+[12:25:54 AM]
+You: what is today's date
+StudyMate: Today's date is 8 October 2026.
+
+[12:25:54 AM]
+You: what is the time
+StudyMate: The current time is 12:25 AM.
+
+[12:25:54 AM]
+You: calculate 25 + 30
+StudyMate: The result is 55.
+
+[12:25:54 AM]
+You: calculate 10 / 0
+StudyMate: Sorry, division by zero is not allowed.
+
+[12:25:54 AM]
+You: calculate invalid input
+StudyMate: Invalid expression for calculator. Please use format like 'calculate 25 + 30'.
+
+[12:25:54 AM]
+You: help
+StudyMate: Hello Preeti! I can help you with:
+
+1. Python
+2. DBMS
+3. HTML
+4. CSS
+5. Git and GitHub
+6. Programming basics
+7. Date and time
+8. Calculator
+9. General conversation
+
+Example questions:
+- What is Python?
+- What is DBMS?
+- What is GitHub?
+- What is the time?
+- What is today's date?
+- Calculate 25 + 30
+
+[12:25:54 AM]
+You: what is quantum physics
+StudyMate: Sorry Preeti, I don't have an answer for that topic yet. You can ask me about Python, DBMS, HTML, CSS, Git, GitHub, programming basics, date, time, or calculator. Type 'help' to see sample questions!
+
+[12:25:54 AM]
+You: bye
+StudyMate: Goodbye Preeti! Good luck with your studies!
+
+[12:31:42 AM]
+You: hello
+StudyMate: Hey! What would you like to learn today?
+
+[12:38:18 AM]
+You: hello
+StudyMate: Hey! What would you like to learn today?
+
+[12:38:18 AM]
+You: my name is Preeti
+StudyMate: Nice to meet you, Preeti!
+
+[12:38:18 AM]
+You: what is my name
+StudyMate: Your name is Preeti!
+
+[12:38:18 AM]
+You: what is Python
+StudyMate: Python is a high-level, interpreted programming language known for its easy-to-read syntax and versatility.
+
+[12:38:18 AM]
+You: what is DBMS
+StudyMate: DBMS (Database Management System) is software used to store, manage, retrieve, and organize data efficiently.
+
+[12:38:18 AM]
+You: what is today's date
+StudyMate: Today's date is 8 October 2026.
+
+[12:38:18 AM]
+You: what is the time
+StudyMate: The current time is 12:38 AM.
+
+[12:38:18 AM]
+You: calculate 25 + 30
+StudyMate: The result is 55.
+
+[12:38:18 AM]
+You: calculate 10 / 0
+StudyMate: Sorry, division by zero is not allowed.
+
+[12:38:18 AM]
+You: help
+StudyMate: Hello Preeti! I can help you with:
+
+1. Python
+2. DBMS
+3. HTML
+4. CSS
+5. Git and GitHub
+6. Programming basics
+7. Date and time
+8. Calculator
+9. General conversation
+
+Example questions:
+- What is Python?
+- What is DBMS?
+- What is GitHub?
+- What is the time?
+- What is today's date?
+- Calculate 25 + 30
+
+[12:38:18 AM]
+You: what is quantum physics
+StudyMate: Sorry Preeti, I don't have an answer for that topic yet. You can ask me about Python, DBMS, HTML, CSS, Git, GitHub, programming basics, date, time, or calculator. Type 'help' to see sample questions!
+
+[12:38:18 AM]
+You: bye
+StudyMate: Goodbye Preeti! Good luck with your studies!
+
+[12:38:46 AM]
+You: & C:/Users/proku/AppData/Local/Programs/Python/Python314/python.exe c:/Users/proku/Desktop/StudyMate-Chatbot/chatbot.py
+StudyMate: Invalid expression for calculator. Please use format like 'calculate 25 + 30'.
+
+[12:39:07 AM]
+You: hello
+StudyMate: Hello! How can I help you today?
+
+[12:39:21 AM]
+You: hello
+StudyMate: Hello! How can I help you today?
+
+[12:40:54 AM]
+You: hello
+StudyMate: Hi! Nice to see you!
+
+[12:40:54 AM]
+You: my name is Preeti
+StudyMate: Nice to meet you, Preeti!
+
+[12:40:54 AM]
+You: what is my name
+StudyMate: Your name is Preeti!
+
+[12:40:54 AM]
+You: what is Python
+StudyMate: Python is a high-level, interpreted programming language known for its easy-to-read syntax and versatility.
+
+[12:40:54 AM]
+You: what is DBMS
+StudyMate: DBMS (Database Management System) is software used to store, manage, retrieve, and organize data efficiently.
+
+[12:40:54 AM]
+You: what is today's date
+StudyMate: Today's date is 8 October 2026.
+
+[12:40:54 AM]
+You: what is the time
+StudyMate: The current time is 12:40 AM.
+
+[12:40:54 AM]
+You: calculate 25 + 30
+StudyMate: The result is 55.
+
+[12:40:54 AM]
+You: calculate 10 / 0
+StudyMate: Sorry, division by zero is not allowed.
+
+[12:40:54 AM]
+You: help
+StudyMate: Hello Preeti! I can help you with:
+
+1. Python
+2. DBMS
+3. HTML
+4. CSS
+5. Git and GitHub
+6. Programming basics
+7. Date and time
+8. Calculator
+9. General conversation
+
+Example questions:
+- What is Python?
+- What is DBMS?
+- What is GitHub?
+- What is the time?
+- What is today's date?
+- Calculate 25 + 30
+
+[12:40:54 AM]
+You: what is quantum physics
+StudyMate: Sorry Preeti, I don't have an answer for that topic yet. You can ask me about Python, DBMS, HTML, CSS, Git, GitHub, programming basics, date, time, or calculator. Type 'help' to see sample questions!
+
+[12:40:54 AM]
+You: bye
+StudyMate: Goodbye Preeti! Good luck with your studies!
+
+[12:41:33 AM]
+You: HELLO
+StudyMate: Hi! Nice to see you!
+
+[10:11:47 AM]
+You: hello
+StudyMate: Hello! How can I help you today?
+
+[11:12:53 PM]
+You: hello
+StudyMate: Hello! How can I help you today?
+
+[11:13:59 PM]
+You: hello
+StudyMate: Hey! What would you like to learn today?
+
+[11:28:00 PM]
+You: What is Python?
+StudyMate: Python is a high-level, interpreted programming language known for its easy-to-read syntax and versatility.
+
+[11:29:26 PM]
+You: helloType your message...
+StudyMate: Sorry, I don't have an answer for that topic yet. You can ask me about Python, DBMS, HTML, CSS, Git, GitHub, programming basics, date, time, or calculator. Type 'help' to see sample questions!
+
+[11:29:26 PM]
+You: my name is PreetiType your message...
+StudyMate: Nice to meet you, Preetitype Your Message!
+
+[11:29:26 PM]
+You: what is my nameType your message...
+StudyMate: Sorry Preetitype Your Message, I don't have an answer for that topic yet. You can ask me about Python, DBMS, HTML, CSS, Git, GitHub, programming basics, date, time, or calculator. Type 'help' to see sample questions!
+
+[11:29:26 PM]
+You: what is PythonType your message...
+StudyMate: Python is a high-level, interpreted programming language known for its easy-to-read syntax and versatility.
+
+[11:29:26 PM]
+You: what is DBMSType your message...
+StudyMate: DBMS (Database Management System) is software used to store, manage, retrieve, and organize data efficiently.
+
+[11:29:26 PM]
+You: what is today's dateType your message...
+StudyMate: Today's date is 10 October 2026.
+
+[11:29:26 PM]
+You: what is the timeType your message...
+StudyMate: The current time is 11:29 PM.
+
+[11:29:26 PM]
+You: calculate 25 + 30Type your message...
+StudyMate: Invalid expression for calculator. Please use format like 'calculate 25 + 30'.
+
+[11:29:26 PM]
+You: calculate 10 / 0Type your message...
+StudyMate: Invalid expression for calculator. Please use format like 'calculate 25 + 30'.
+
+[11:29:26 PM]
+You: helpType your message...
+StudyMate: Sorry Preetitype Your Message, I don't have an answer for that topic yet. You can ask me about Python, DBMS, HTML, CSS, Git, GitHub, programming basics, date, time, or calculator. Type 'help' to see sample questions!
+
+[11:29:26 PM]
+You: what is quantum physicsType your message...
+StudyMate: Sorry Preetitype Your Message, I don't have an answer for that topic yet. You can ask me about Python, DBMS, HTML, CSS, Git, GitHub, programming basics, date, time, or calculator. Type 'help' to see sample questions!
+
+[11:29:26 PM]
+You: byeType your message...
+StudyMate: Sorry Preetitype Your Message, I don't have an answer for that topic yet. You can ask me about Python, DBMS, HTML, CSS, Git, GitHub, programming basics, date, time, or calculator. Type 'help' to see sample questions!
+
+[11:29:46 PM]
+You: hello
+StudyMate: Hello! How can I help you today?
+
+[11:29:46 PM]
+You: my name is Preeti
+StudyMate: Nice to meet you, Preeti!
+
+[11:29:46 PM]
+You: what is my name
+StudyMate: Your name is Preeti!
+
+[11:29:46 PM]
+You: what is Python
+StudyMate: Python is a high-level, interpreted programming language known for its easy-to-read syntax and versatility.
+
+[11:29:46 PM]
+You: what is DBMS
+StudyMate: DBMS (Database Management System) is software used to store, manage, retrieve, and organize data efficiently.
+
+[11:29:46 PM]
+You: what is today's date
+StudyMate: Today's date is 10 October 2026.
+
+[11:29:46 PM]
+You: what is the time
+StudyMate: The current time is 11:29 PM.
+
+[11:29:47 PM]
+You: calculate 25 + 30
+StudyMate: The result is 55.
+
+[11:29:47 PM]
+You: calculate 10 / 0
+StudyMate: Sorry, division by zero is not allowed.
+
+[11:29:47 PM]
+You: help
+StudyMate: Hello Preeti! I can help you with:
+
+1. Python
+2. DBMS
+3. HTML
+4. CSS
+5. Git and GitHub
+6. Programming basics
+7. Date and time
+8. Calculator
+9. General conversation
+
+Example questions:
+- What is Python?
+- What is DBMS?
+- What is GitHub?
+- What is the time?
+- What is today's date?
+- Calculate 25 + 30
+
+[11:29:47 PM]
+You: what is quantum physics
+StudyMate: Sorry Preeti, I don't have an answer for that topic yet. You can ask me about Python, DBMS, HTML, CSS, Git, GitHub, programming basics, date, time, or calculator. Type 'help' to see sample questions!
+
+[11:29:47 PM]
+You: bye
+StudyMate: Goodbye Preeti! Good luck with your studies!
+
