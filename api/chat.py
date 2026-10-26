@@ -32,7 +32,32 @@ class handler(BaseHTTPRequestHandler):
         self._set_headers(200)
 
     def do_GET(self):
-        """Health check endpoint."""
+        """Serves static files or API status."""
+        clean_path = self.path.split("?")[0].strip("/")
+
+        # Serve index.html for root or /index.html
+        if not clean_path or clean_path == "index.html":
+            index_path = os.path.join(ROOT_DIR, "index.html")
+            if os.path.exists(index_path):
+                self.send_response(200)
+                self.send_header("Content-Type", "text/html; charset=utf-8")
+                self.end_headers()
+                with open(index_path, "rb") as f:
+                    self.wfile.write(f.read())
+                return
+
+        # Serve static assets
+        if clean_path in ["style.css", "script.js"]:
+            file_path = os.path.join(ROOT_DIR, clean_path)
+            if os.path.exists(file_path):
+                mime = "text/css; charset=utf-8" if clean_path.endswith(".css") else "application/javascript; charset=utf-8"
+                self.send_response(200)
+                self.send_header("Content-Type", mime)
+                self.end_headers()
+                with open(file_path, "rb") as f:
+                    self.wfile.write(f.read())
+                return
+
         self._set_headers(200)
         payload = {
             "status": "online",
