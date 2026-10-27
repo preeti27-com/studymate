@@ -118,7 +118,7 @@ You can deploy StudyMate live to the web using Vercel with zero server setup:
 
 ## Sample Questions & Commands
 
-- **Python**: *"What is Python?"*, *"Explain variable"*, *"What is a function?"*
+- **Python**: *"What is Python?"*, *"Explain variable"*, *"What is a function?"* **"define pytthon"**
 - **DBMS**: *"What is DBMS?"*, *"What is SQL?"*, *"What is a primary key?"*
 - **HTML & CSS**: *"What is HTML?"*, *"What is an HTML tag?"*, *"What is CSS?"*, *"Why use CSS?"*
 - **Git & GitHub**: *"What is Git?"*, *"What is GitHub?"*, *"What is a repository?"*
