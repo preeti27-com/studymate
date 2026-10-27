@@ -480,3 +480,11 @@ StudyMate: Sorry Preeti, I don't have an answer for that topic yet. You can ask 
 You: bye
 StudyMate: Goodbye Preeti! Good luck with your studies!
 
+[07:34:26 PM]
+You: What is Python?
+StudyMate: Python is a high-level, interpreted programming language known for its easy-to-read syntax and versatility.
+
+[07:34:31 PM]
+You: What is DBMS?
+StudyMate: DBMS (Database Management System) is software used to store, manage, retrieve, and organize data efficiently.
+
